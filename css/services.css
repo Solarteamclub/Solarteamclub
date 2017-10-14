@@ -1,0 +1,46 @@
+.small{
+	height: 250px;
+	width: 250px;
+	margin: 10px;
+	float: left;
+}
+#earthmover {
+	float: left;
+	}
+#equip {
+	float: right;
+	}
+#build {
+	float: left;
+	}
+#house {
+	float: right;
+	padding-right: 50px;
+	}
+#remodels {
+	float: left;
+	}
+#bathroom {
+	float: right;
+	padding-right: 50px;
+	}
+.large {
+	height: 250px;
+	width: 600px;
+	margin: 10px;
+}
+#hero {
+	width: 1000px;
+	height: 275px;
+	float: left;
+}	
+#hero h2 {
+	text-align: center;
+}
+p {
+	text-indent: 30px;
+}
+.bottom{
+	width: 243px;
+	float: left;
+}

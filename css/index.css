@@ -1,0 +1,82 @@
+html {
+	width: 100%
+}
+body {
+	font-family: verdana;
+	width: 1000px;
+	margin: auto;
+}
+head {
+	width: 100%;
+}
+.nav {
+	background-color: #0b2964;
+}	
+li {
+	display: inline;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 18px;
+	color: #d3d3d3;
+	margin: 10px;
+	text-transform:uppercase;
+	text-decoration:none;
+}
+li a:hover {
+	background-color:#0a9bd9;
+	color:#333;
+	
+}
+li a:visited {
+	color: #d3d3d3;
+}
+li a:link {
+	color: #d3d3d3;
+	text-decoration: none;
+}
+.content {
+	width: 800px;
+}
+#right {
+	text-align: right;
+}
+.right {
+	margin-right: 0px
+}
+h1 {
+	font-family: georgia;
+	font-size: 25px;
+	letter-spacing: 20px;
+	text-transform: uppercase;
+}
+.right {
+	padding-right: 0px
+}
+img {
+	display: block;
+	margin: auto;
+	padding-top: 0px;
+	padding-bottom: 15px;
+}
+.box {
+	float: left;
+	width: 600px;
+	font-size: 12px;
+	color: gray; 
+	padding-bottom: 10px;
+	padding-left: 20px; 
+	
+}
+.rightbox {
+	float: right;
+	padding-right: 60px;
+	padding-top: 25px;
+	width: 200px;
+}
+.clear {
+	clear: both;
+}
+
+
+
+
