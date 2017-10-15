@@ -22,7 +22,7 @@ head {
 	width: 85%;
 }
 ul {
-	padding-top: 15px;
+	padding-top: 0px;
 	padding-bottom: 0px;
 	padding-left: 0px;
 	padding-right: 0px;
@@ -30,13 +30,13 @@ ul {
 
 .nav {
 	background-color: white;
-	height: 80px;
+	height: 55px;
 	position: fixed;
     top: 0;
     width: 100%;
 	border-bottom: 1px solid #111;
 	margin: 0px;
-	padding: 10px;
+	padding: 5px;
 }
 li {
 	display: inline;
