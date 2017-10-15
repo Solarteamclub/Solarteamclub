@@ -3,51 +3,13 @@ html {
 }
 body {
 	font-family: verdana;
-	width: 1000px;
+	width: 90%;
 	margin: auto;
-}
-head {
-	width: 100%;
-}
-.nav {
-	background-color: #0b2964;
-}
-.scroll {
-	position: fixed;
-  width: 100%;
-  top: 0;
-  z-index: 10;
-}
-li {
-	display: inline;
-	text-transform: uppercase;
-	text-align: center;
-	font-size: 18px;
-	color: #d3d3d3;
-	margin: 10px;
-	text-transform:uppercase;
-	text-decoration:none;
-}
-li a:hover {
-	background-color:#0a9bd9;
-	color:#333;
+}	
 
-}
-li a:visited {
-	color: #d3d3d3;
-}
-li a:link {
-	color: #d3d3d3;
-	text-decoration: none;
-}
 .content {
 	width: 800px;
-}
-#right {
-	text-align: right;
-}
-.right {
-	margin-right: 0px
+	padding-top: 100px;
 }
 h1 {
 	font-family: georgia;
@@ -55,30 +17,42 @@ h1 {
 	letter-spacing: 20px;
 	text-transform: uppercase;
 }
-.right {
-	padding-right: 0px
-}
-img {
-	display: block;
+
+.mission{
+	width: 90%;
+	font-size: 18px;
+	padding; 20px;
 	margin: auto;
-	padding-top: 0px;
-	padding-bottom: 15px;
+}
+.t1 {
+	float: left;
+	padding-left: 30px;
+	padding-top: 25px;
+	width: 30%;
+	border-right: 1px solid #bbb;
+	margin-top: 30px;
+}
+.t2 {
+	float: left;
+	padding-left: 30px;
+	padding-top: 25px;
+	width: 30%;
+	margin-top: 30px;
 }
 .box {
 	float: left;
 	width: 600px;
 	font-size: 12px;
-	color: gray;
+	color: gray; 
 	padding-bottom: 10px;
-	padding-left: 20px;
+	padding-left: 20px; 
+	
+}
 
-}
-.rightbox {
-	float: right;
-	padding-right: 60px;
-	padding-top: 25px;
-	width: 200px;
-}
 .clear {
 	clear: both;
 }
+
+
+
+
