@@ -2,12 +2,12 @@ body {
 	font-family: verdana;
 	width: 100%;
 	margin: auto;
-	
+
 }
 head {
 	width: 100%;
 	margin: auto;
-	
+
 }
 .head{
 	padding-top: 20px;
@@ -90,18 +90,18 @@ h2 {
 	font-size: 14px;
 	padding-top: 15px;
 	padding-bottom: 15px;
-	background-color: #0b2964;
+	background-color: #999999;
 	margin: auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
+.fa {
+    padding: 20px;
+    font-size: 100px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+		color: pink;
+}
+li.w {
+	display: inline;
+	color: purple;
+}
