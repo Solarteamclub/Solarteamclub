@@ -101,7 +101,8 @@ h2 {
     text-decoration: none;
 		color: pink;
 }
-li.w {
+.social li{
 	display: inline;
-	color: purple;
+
+
 }
